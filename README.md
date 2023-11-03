@@ -1,1 +1,0 @@
-# shoganai-kiri.github.io
