@@ -363,6 +363,8 @@ border-radius: 7px;
     z-index: 0;
     width: auto;
     max-height: 700px;
+    overflow: hidden;
+    flez-shrink: 10;
     margin-right: 0px;
     object-fit: cover;
     align-self: flex-end;
