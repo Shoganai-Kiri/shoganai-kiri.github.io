@@ -1,0 +1,23 @@
+---Target user profile---
+
+The final users for my website are people who search for arts of they characters or for me to crate a model for them. Also this website can represent all my studies and work experience.
+Because of the users I decided to create diferent pages, to get everything more organized. 
+The colors and typography I used, are from a japanese paint, they feel warm and calm, as I wanted to say with the web.
+
+FIGMA project link: https://www.figma.com/file/Tu5DVRJGbp1s4rJgyDdCDR/Untitled?type=design&node-id=2%3A2&mode=design&t=6d8XZdmZws4fVrAK-1
+
+--Information architecture---
+
+For making all the informations accessible I created difernt webpages. The fist one has the general information about me. The second one has the contact links, easy to see them. The third has all my experience, studies and places were I worked. The last one has some of my drawings.
+
+---Visual design---
+
+Every page has the same style, the same header the navbar on the left that stays static, and the typography and colors all related. The pages have some variabilities for the information showing, for it not to be dull and plain.
+
+
+---Sites used---
+
+Flaticon: https://www.flaticon.com/ -> for the icons on the project
+Github -CodingStella-: https://github.com/codingstella -> skill bars
+W3: https://www.w3schools.com -> resurces and expand my knowledge on html
+
