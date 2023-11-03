@@ -1,2 +1,0 @@
-# Holi
-# ./about.html
