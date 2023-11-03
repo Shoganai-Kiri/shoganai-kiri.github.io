@@ -139,6 +139,7 @@ header{
     flex-grow: 100;
     background: #492222;
     width: 100%;
+    z-index:2;
 }
 
 .container_info{
