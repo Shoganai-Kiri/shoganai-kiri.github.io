@@ -366,6 +366,7 @@ border-radius: 7px;
     max-height: 900px;
     margin-right: 0px;
     object-fit: cover;
+    transform: 0.5s;
     align-self: flex-end;
 }
 
@@ -379,6 +380,7 @@ border-radius: 7px;
     margin-left: 100px;
     object-fit: cover;
     align-self: flex-end;
+    transform: 0.5s;
 }
 
 .back{
